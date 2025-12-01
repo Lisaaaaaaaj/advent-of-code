@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "repo which holds advent of code code",
+  "homepage": "https://github.com/Lisaaaaaaaj/advent-of-code#readme",
+  "bugs": {
+    "url": "https://github.com/Lisaaaaaaaj/advent-of-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lisaaaaaaaj/advent-of-code.git"
+  },
+  "license": "ISC",
+  "author": "Lisaaaaaaaj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
